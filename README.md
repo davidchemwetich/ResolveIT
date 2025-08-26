@@ -1,4 +1,4 @@
-# ResolveIT - TALL stack script (bynetops)
+# ResolveIT - TALL stack script
 # 🗺️ Complete Development Roadmap – Support Board (TALL + Pusher)
 
 ---
